@@ -9,7 +9,6 @@
 <h3 align="center">A passionate ML/DL developer in ESG domain.</h3>
 
 <br>
-<br>
 
 <p align="center">
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -19,7 +18,6 @@
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> 
 </p>
 
-<br>
 <br>
 
 - 🔭 I’m interested in **Natural Language Processing**
