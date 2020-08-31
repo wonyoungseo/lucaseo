@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wonyoung</h1>
 <h3 align="center">A passionate ML/DL developer in ESG domain.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaseo" alt="lucaseo" /> </p>
+<div align=right>
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flucaseo)](https://hits.seeyoufarm.com)   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lucaseo.github.io/)](https://lucaseo.github.io/)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaseo)](https://www.linkedin.com/in/lucaseo)   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaseo0147@gmail.com)](mailto:lucaseo0147@gmail.com)
+	
+</div> 
 
 - 🔭 I’m interested in **Natural Language Processing**
 
