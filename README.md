@@ -2,7 +2,11 @@
 <h3 align="center">A passionate ML/DL developer in ESG domain.</h3>
 
 <div align=right>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flucaseo)](https://hits.seeyoufarm.com)   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lucaseo.github.io/)](https://lucaseo.github.io/)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaseo)](https://www.linkedin.com/in/lucaseo)   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaseo0147@gmail.com)](mailto:lucaseo0147@gmail.com)
+	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flucaseo)](https://hits.seeyoufarm.com)   
+	[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://lucaseo.github.io/)](https://lucaseo.github.io/)   
+	[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaseo)](https://www.linkedin.com/in/lucaseo)   
+	[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaseo0147@gmail.com)](mailto:lucaseo0147@gmail.com)
+
 </div> 
 
 <p align="center">
@@ -19,13 +23,7 @@
 
 - 📝 I regulary write articles on [lucaseo.github.io](lucaseo.github.io)
 
-- 📫 How to reach me **lucaseo0147@gmail.com**
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaseo&show_icons=true" alt="lucaseo" /></p>
-
-<p align="center">
-<a href="https://linkedin.com/in/lucaseo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucaseo" height="30" width="30" /></a>
-<a href="https://medium.com/@lucaseo0147" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@lucaseo0147" height="30" width="30" /></a>
-</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaseo&show_icons=true" alt="lucaseo" /></p>
