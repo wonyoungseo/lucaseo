@@ -20,7 +20,7 @@
 
 <br>
 
-- 🔭 I’m interested in **Natural Language Processing**
+- 🔭 I’m interested in **Natural Language Processing and Music/Sound Processing**
 
 - 🌱 I’m currently learning **Deep learning theory and its applications**
 
