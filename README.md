@@ -6,12 +6,12 @@
 
 </div> 
 
-<h3 align="center">A passionate ML/DL developer in ESG domain.</h3>
+<h3 align="center">A passionate Data Scientist, ML/DL developer in ESG domain.</h3>
 
 <br>
 
 <p align="center">
-	<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+	<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="python" width="40" height="40"/> 
 	<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -20,9 +20,9 @@
 
 <br>
 
-- 🔭 I’m interested in **Natural Language Processing and Music/Sound Processing**
+- 🔭 I’m personally interested in **Natural Language Processing and Music/Sound Processing**
 
-- 🌱 I’m currently learning **Deep learning theory and its applications**
+- 🌱 I’m currently learning **Airflow, Deep learning theory and its applications**
 
 - 📝 I regulary write articles on [lucaseo.github.io/blog/](lucaseo.github.io/blog/)
 
