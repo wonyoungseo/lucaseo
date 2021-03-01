@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Airflow, Deep learning theory and its applications**
 
-- 📝 I regulary write articles on [lucaseo.github.io/blog/](https://lucaseo.github.io/blog/)
+- 📝 I regulary write articles on [lucaseo.github.io/](https://lucaseo.github.io/)
 
 
 <br>
