@@ -15,7 +15,7 @@
 	<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 	<img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker" width="40" height="40"/> 
-	<img src="https://avatars3.githubusercontent.com/u/45109972?s=400&v=4" alt="streamlit" width="40" height="40"/>
+	<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/z3ahdkytzwi1jxlpazje" alt="streamlit" width="40" height="40"/>
 	<img src="https://airflow.apache.org/_images/pin_large.png" alt="airflow" width="40" height="40"/>
 	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj0bC0v0MybCJMVdraJr9FRT3aNdl_HxIPIw&usqp=CAU" alt="plotly" width="40" height="40"/>
 	<img src="https://cdn.iconscout.com/icon/free/png-512/r-5-283170.png" alt="r" width="40" height="40"/> 
