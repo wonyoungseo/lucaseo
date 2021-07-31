@@ -23,9 +23,9 @@
 
 <br>
 
-- 🔭 I’m personally interested in **Natural Language Processing and Music/Sound Processing**
+- 🔭 I’m personally interested in **MLOps, Natural Language Processing and Music/Sound Processing**
 
-- 🌱 I’m currently learning **Airflow, Deep learning theory and its applications**
+- 🌱 I’m currently learning **Airflow, Docker, Kubernetes, MLOps, Deep learning theory and its applications**
 
 - 📝 I regulary write articles on [lucaseo.github.io/](https://lucaseo.github.io/)
 
